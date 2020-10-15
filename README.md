@@ -1,2 +1,3 @@
 # ui-landing
-Дизайн простого невеликого лендінгу
+
+Mockup for simple landing using AdobeXD
